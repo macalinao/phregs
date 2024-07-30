@@ -89,10 +89,10 @@ This Order shall cover all types of sales machines and/or software generating in
 3. e-Invoicing or e-Receipting System/Software used under a Subscription-Based Agreement;
 
 4. All other similar sales machines/software that will generate printed invoices/receipts, such as but not limited to:
-   a. Taximeters;
-   b. Handheld or mobile devices linked to a server;
-   c. Unmanned bill, coin, or token-operated machines issuing invoice upon sale; and
-   d. Other sales machines/software issuing invoices/receipts; except Computerized Accounting System.
+   - a. Taximeters;
+   - b. Handheld or mobile devices linked to a server;
+   - c. Unmanned bill, coin, or token-operated machines issuing invoice upon sale; and
+   - d. Other sales machines/software issuing invoices/receipts; except Computerized Accounting System.
 
 These shall be collectively referred to in this Order as "Sales Machines/Software".
 
@@ -306,3 +306,289 @@ The following general policies shall be observed in the accreditation of CRM/POS
 18. The eAccReg System Accreditation of Software and/or Hardware Job Aid (Annex "L") shall serve as guide of the concerned Head/member of LTAB/RAB/TWG Secretariat in using the system.
 
 19. A list of all duly updated accredited "Sales Machines/Software" shall be posted by the concerned office in-charge with the official website of the Bureau of Internal Revenue (BIR) – <www.bir.gov.ph> to inform the taxpayer-user of those "Sales Machines/Software" that have been accorded official accreditation by the Bureau.
+
+## V. Roles and Responsibilities
+
+An Accreditation Board (AB) shall be created at the National Office, Large Taxpayers Service (LTS) and each of the Revenue Regions (RRs).
+
+The AB is constituted as follows:
+
+### National Accreditation Board (NAB)
+
+#### Heads
+
+- Assistant Commissioner (ACIR), Client Support Service (CSS) – for Non-Large Taxpayers (Non-LTs)
+- ACIR, LTS – for Large Taxpayers (LTs)
+
+#### Co-Head
+
+- ACIR, Information Systems Development and Operations Service (ISDOS)
+
+#### Members
+
+**For Non-LTs**
+
+- Head Revenue Executive Assistant (HREA), CSS
+- Head, Concerned Revenue Data Center (RDC)
+- Chief, Taxpayer Service Programs and Monitoring Division (TSPMD)
+- Chief, Law and Legislative Division
+- Assistant Chief, TSPMD
+- Section Chief, Programs Development and Review Section (PDRS), TSPMD
+
+**For LTs**
+
+- HREA, LTS – Programs & Compliance Group
+- Head, National Office Data Center (NODC)
+- Chief, LT Assistance Division (LTAD)
+- Chief, Excise LT Regulatory Division (ELTRD)
+- Chief, Large Taxpayers District Office - Cebu
+- Chief, Large Taxpayers District Office - Davao
+
+#### NAB Secretariat
+
+**For Non-LTs**
+
+- Staff, CSS
+- Representative(s) from PDRS, TSPMD
+
+**For LTs**
+
+- Staff, Office of the ACIR, LTS
+- Staff, Office of the HREA, LTPCG
+
+### Large Taxpayers Accreditation Board (LTAB)
+
+#### Head
+
+- HREA, LTS – Programs & Compliance Group
+
+#### Co-Head
+
+- Head, NODC
+
+#### Members
+
+- Chief, Computer Operations Network and Engineering Division (CONED), NODC
+- Chief, Concerned LT Audit Division
+
+#### LTAB Secretariat
+
+- Staff, Office of the HREA, LTPCG
+
+### Regional Accreditation Board (RAB)
+
+#### Head
+
+- Assistant Regional Director (ARD) of respective RR
+
+#### Co-Head
+
+- Head, RDC of the respective RR
+
+#### Members
+
+- Concerned Revenue District Officer (RDO) at the Revenue District Office where the taxpayer-applicant is registered
+- Chief, Assessment Division of the respective RR
+
+#### RAB Secretariat
+
+- Head, Client Support Unit (CSU) of the respective RR
+- Staff from Office of the Regional Director (RD) or Office of the ARD
+
+### Technical Working Group (TWG)
+
+#### Large Taxpayers Service (LTS)
+
+**LT Regular/Excise Group (RDOs No. 116, 121, 124, 125, and 126)**
+
+#### Head
+
+- Chief, LTAD/ELTRD
+
+#### Asst. Head
+
+- Chief, CONED – NODC
+
+#### Members
+
+- Chief, Assessment Section of the concerned LT Audit Offices
+- Taxpayer Account Management Program (TAMP) Officer of the taxpayer-applicant
+- Representative from LTAD/ELTRD
+- Representative from CONED – NODC
+
+#### TWG Secretariat
+
+- Representative from LTAD/ELTRD
+
+**LT District Offices (RDOs No. 123 and 127)**
+
+#### Head
+
+- Chief, LT District Office (LTDO) concerned
+
+#### Asst. Head
+
+- Head, CONED—RDC Visayas or Mindanao
+
+#### Members
+
+- Chief, Assessment Section of the concerned LT Audit Offices
+- TAMP Officer of the taxpayer-applicant
+- Chief, Client Support Section and/or his/her Representative from CONED—RDC Visayas or Mindanao
+- Representative from CONED—RDC Visayas or Mindanao
+
+#### TWG Secretariat
+
+- Staff from Client Support Section of the concerned LTDO
+
+### Revenue Regions (RRs)
+
+#### Head
+
+- Revenue District Officer at the Revenue District Office where the taxpayer-applicant is registered
+
+#### Asst. Head
+
+- Chief, CONED of the nearest RDC
+
+#### Members
+
+- Chief, Assessment Section and/or his/her Representative from the RDO where taxpayer-applicant is registered
+- Chief, Client Support Section and/or his/her Representative from the RDO where the taxpayer-applicant is registered
+- TAMP Officer and/or his/her Representative from Assessment Section of RDO where the taxpayer-applicant is registered
+- Representative from CONED or Facility Management Division (FMD) of the RDC
+
+#### TWG Secretariat
+
+- Staff from Client Support Section where the RDO of the taxpayer-applicant is registered or as assigned/designated by Head, TWG
+
+**Note:** The TWG Head shall create at least one (1) team and additional teams may be created depending on the number of applications that may be received. Each team shall be assigned a Team Head.
+
+## VI. Procedures
+
+The following procedures must be observed and followed in the processing of applications for accreditation of "Sales Machines/Software":
+
+### A. Technical Working Group (TWG) Secretariat
+
+1. Check the completeness and correctness of the basic compliance requirements based on the Checklist of Documentary Requirements from the supplier/vendor/developer/provider/taxpayer-user.
+   - In case there are lacking documents to be submitted based on the Checklist of Documentary Requirements, application must not be accepted and the same shall be returned to the taxpayer-applicant making sure that the reason for denial of receipt and the lacking documents are acknowledged by the taxpayer-applicant.
+2. Validate the registration information of the taxpayer-applicant via registration database of the BIR, including update on its Annual Registration Fee (ARF) payment, to determine correctness of the submitted documentary requirements.
+3. Receive the application for accreditation from taxpayer-applicant and assign a Receiving/Reference Control Number (RCN) with the format below:
+
+   ```
+   RRR_RDO_XXXXXX
+   ```
+
+   - **Where:**
+     - RRR = Revenue Region Number (alphanumeric) e.g., 08A, 07B, 004, etc.
+     - RDO = Revenue District Office Number (alphanumeric) e.g., 17A, 21C, 001, etc.
+     - XXXXXX = 6-digit sequential serial number
+   - **For example:** RDO No. 112 – Tagum under Revenue Region No. 19 – Davao City received its first application for POS Accreditation.
+   - **The RCN shall be:** `019_112_000001`
+   - A database (in MS Excel format based on Annex "M") with all the salient information shall be maintained to record all applications for accreditation received with the corresponding RCN. The said database shall be filtered on a weekly basis (every Friday) to generate a report with all the applications that were received, then forward the said report to the LTAB/RAB Secretariat via electronic mail (e-mail) for the updating/maintenance of a region-wide database (in MS Excel format based on Annex "M") that will be utilized for monitoring purposes. Scanned copy of the notarized Sworn Statement submitted by the taxpayer-applicants must be also forwarded via e-mail to the LTAB/RAB Secretariat for recording/updating of the region-wide database.
+
+4. Prepare Notice of Meeting for the conduct of system demonstration upon coordination with the taxpayer-applicant via email. System demonstration must be conducted within three (3) working days from submission of the complete documentary requirements or depending on the preparedness of the taxpayer-applicant to present the "Sales Machines/Software". Schedule of system demonstration should be on a "FIRST IN, FIRST OUT" policy. Meeting/Evaluation may be done via any online platform depending on the situation as may be cited.
+5. Communicate the schedule of system demonstration by sending the Notice of Meeting to the TWG members who will evaluate the "Sales Machines/Software" and letter/e-mail for the taxpayer-applicant informing him/her/it about the system demonstration schedule, including the link of the preferred online meeting platform, if applicable. The application for accreditation shall also be forwarded to the TWG - Team Head or Assistant Team Head, prior to the actual conduct of system demonstration for proper review and/or validation of documentary requirements.
+6. Prepare and present the Minutes of Meeting (MOM) (Annex "G") during the conduct of system demonstration and specify therein all the additional documentary requirements, which needs to be submitted by the taxpayer-applicant, including any findings/comments noted by the evaluators on their signed Functional and Technical Evaluation Checklist on Sales Machines/Software (Annex "F"). The TWG Secretariat shall also receive, compile and attach to the docket the printout of the soft copy of the documents generated during the system demonstration. The duly accomplished Functional and Technical Evaluation Checklist on Sales Machines/Software (Annex "F") signed by each member (required to be submitted via e-mail to the TWG – Team Head if online system demonstration is done) must also be attached to the docket.
+   - The "Sales Machines/Software" must be compliant; otherwise, it shall be stated in the MOM that the application is denied by the TWG. It must be acknowledged and signed by all the TWG Members and the taxpayer-applicant's authorized representatives who attended the system demonstration.
+   - In case technical reconfiguration/enhancement/modification must still be done after the system demonstration, the Minutes of Meeting shall state that the application is denied by the TWG.
+7. Receive additional documentary requirements submitted by the taxpayer-applicant as listed and required in the Minutes of Meeting (MOM) (Annex "G").
+   - Non-submission of the required documents/non-compliance with the requirements on the prescribed period as stated on the MOM shall be a ground for the denial of application. Hence, a Recommendation for Denial (Annex "N") of the application for non-submission/compliance with the requirement within the required period and the Notice/Letter of Denial (Annex “J”) shall be prepared by the TWG Secretariat.
+8. Forward the docket with the additional documentary requirements submitted by the taxpayer-applicant to the TWG Members for validation and preparation of approval/denial memorandum/report.
+
+   - In case of non-submission of the required documents/non-compliance, the docket with the Recommendation for Denial (Annex “N”) and the Notice/Letter of Denial (Annex “J”) shall be forwarded to the TWG - Team Head for affixing initial on the Recommendation for Denial.
+
+9. Receive dockets with approved Certificate of Accreditation (Annex “I”) and/or Notice/Letter of Denial (Annex “J”) from the LTAB/RAB Secretariat for issuance to the taxpayer-applicant. For denied applications, the submitted documentary requirements may be returned or properly disposed by the BIR based at the option of the taxpayer-applicant.
+10. Update the taxpayer-applicant thru mail or email on the status of the application for accreditation within seven (7) working days from the conduct of system demonstration, whichever is applicable.
+
+    - If the docket was already forwarded to the LTAB/RAB Secretariat, inform the taxpayer-applicant of such and advise him/her/it to coordinate with the LTAB/RAB Secretariat regarding the updated/actual status of accreditation application.
+
+    - The TWG Secretariat shall advise the taxpayer-applicant to provide the applicable documents to claim the Certificate of Accreditation or Notice/Letter of Denial by a representative, to wit:
+
+11. Authorization Letter or Special Power of Attorney (SPA) (for Individual); or
+12. Board Resolution indicating the purpose and the name of the authorized representative or Secretary’s Certificate (for Non-individual); and
+13. Any government-issued ID of the authorized representative.
+14. Prepare and transmit approved Monthly Report on the Applications for Accreditation Received (Annex “P-1” and “P-2”) to the LTAB/RAB Secretariat pursuant to RMC No. 49-2019 on or before 10th day of the following month.
+
+### B. TWG Members
+
+#### B.1. General Procedures
+
+1. Receive the Notice of Meeting from the TWG Secretariat relative to the schedule of system demonstration, including the link for the preferred online meeting platform, if applicable.
+2. Attend and participate actively in the evaluation of the system during demonstration following the Functional and Technical Evaluation Checklist on Sales Machines/Software (Annex "F") to determine whether or not the "Sales Machines/Software" is in compliance with the existing requirements of the BIR.
+   - The additional documentary requirements to be requested from the taxpayer-applicant shall be documented in the Minutes of Meeting (MOM) to be prepared and presented by the TWG Secretariat. In case technical reconfiguration/enhancement/modification must be done or there are other major issues, the Minutes of Meeting shall include such and indicate that the application has been denied by the TWG.
+3. Affix signature on the Minutes of Meeting (Annex "G") prepared and presented by the TWG Secretariat after discussing the same with the taxpayer-applicant during the conduct of system demonstration.
+   - The signature of all the TWG members who evaluated the "Sales Machines/Software" must also be affixed on the Functional and Technical Evaluation Checklist on Sales Machines/Software (Annex "F"), which must be attached to the docket by the TWG Secretariat after the evaluation/system demonstration.
+4. Receive the docket with the additional documents from the TWG Secretariat and prepare an approval/denial memorandum/report addressed to the TWG Head and/or Assistant Head, copy furnished the TWG - Team Head and TWG Secretariat.
+5. Endorse docket to the TWG - Team Head for the preparation of the Recommendation for Accreditation/Accreditation Report (Annex "O") or Recommendation for Denial (Annex "N") with Notice/Letter of Denial (Annex "J").
+
+#### B.2. Additional Procedures for E-Invoicing/E-Receipting System Used Under a Subscription-Based Agreement
+
+1. Verify the correctness of sales data transmission by reviewing the JSON File Format during the conduct of the system demonstration.
+2. Incorporate the findings on the sales data transmission in the Functional and Technical Evaluation Checklist on Sales Machines/Software (Annex "F").
+
+### C. TWG - Team Head
+
+1. Receive the application for accreditation from the TWG Secretariat with the Notice of Meeting relative to the schedule of system demonstration, including the link of preferred online meeting platform, if applicable.
+2. Conduct system demonstration and evaluate the "Sales Machines/Software" using the Functional and Technical Evaluation Checklist on Sales Machines/Software (Annex "F") then accomplish and sign on the said checklist based on the discussion with other TWG members to determine whether or not the "Sales Machines/Software" is in compliance with the existing requirements of the Bureau. Meeting/evaluation may be done via any online platform depending on the situation as may be cited.
+3. Affix signature on the Minutes of Meeting (MOM) (Annex "G") prepared and presented by the TWG Secretariat after discussing the same with the taxpayer-applicant during the conduct of system demonstration.
+4. In case of non-submission of the required documents/non-compliance with the requirements on the prescribed period as stated on the MOM, receive the docket and affix initial on the Recommendation for Denial (Annex "N") with Notice/Letter of Denial (Annex "J") prepared by the TWG Secretariat.
+5. Receive the docket with the approval/denial memorandum/report from the other TWG Members which shall be the basis for the preparation of the Recommendation for Accreditation/Accreditation Report (Annex "O") to commend approval or Recommendation for Denial (Annex "N") with Notice/Letter of Denial (Annex "J") stating all the facts relative to the non-compliance of "Sales Machines/Software".
+   - In case there is a dispute on the approval/denial memorandum/report prepared by the TWG Members, the Recommendation Accreditation/Accreditation Report or Recommendation for Denial shall be prepared after the resolution of the issue.
+6. Forward the docket with the prepared and initialed Recommendation for Accreditation/Accreditation Report (Annex "O") or Recommendation for Denial (Annex "N") with Notice/Letter of Denial (Annex "J"), whichever is applicable, and the application for accreditation with attached documentary requirements submitted by the taxpayer-applicant, to the TWG Head/Assistant Head for signature.
+
+### D. TWG Head or Assistant Head
+
+1. Create team(s) who will handle the evaluation of applications for accreditation depending upon the inventory/number of the applications received, then assign or appoint the TWG - Team Head for each team, who shall facilitate and lead the conduct of the system demonstrations and shall prepare the Recommendation for Accreditation/Accreditation Report (Annex "O") or Recommendation for Denial (Annex "N") with Notice/Letter of Denial (Annex "J"), whichever is applicable.
+2. Receive the docket which includes the Recommendation for Accreditation/Accreditation Report (Annex "O") or Recommendation for Denial (Annex "N"), whichever is applicable, and affix signature for the approval/denial of accreditation application within the day upon receipt of the same from the TWG Secretariat or TWG - Team Head.
+3. Receive the approval/denial memorandum/report from the TWG Members concerned and check if there is a dispute and/or issues on the approval/denial of the accreditation application.
+4. Review and/or conduct proper evaluation in case there are disputes or issues relative to the approval/denial of application, such as peculiarity of the "Sales Machines/Software" aligned with the concerned business industry. Discussions through meetings with the taxpayer-applicant shall be done, if deemed necessary.
+   - In case the said disputes/issues cannot be resolved at the TWG level, the same must be escalated to the LTAB/RAB level for their proper review and/or evaluation based on the facts of the case.
+5. Endorse the docket to the LTAB/RAB Secretariat for routing to the Chief of the Assessment Division as LTAB/RAB Member and Head/Co-Head.
+
+### E. Large Taxpayers Accreditation Board (LTAB)/Regional Accreditation Board (RAB) Secretariat
+
+1. Receive weekly reports via electronic mail (e-mail) on all the applications received by the TWG Secretariat of each LT Office/RDO with the corresponding RCN and maintain a LT/region-wide database (in MS Excel format based on Annex "M") for monitoring purposes. The aforesaid database must be updated regularly to indicate the actual status of each application. Scanned copy of notarized Sworn Statement shall also be received via e-mail from the TWG Secretariat and shall be the basis of the information that will be entered in the database.
+2. Receive from the TWG Head the docket with the Recommendation for Accreditation/Accreditation Report (Annex "O") or Recommendation for Denial (Annex "N") with Notice/Letter of Denial (Annex "J"), whichever is applicable.
+3. Route the docket to the Chief of the LT Audit Division/Assessment Division as LTAB/RAB Member for signature and Head or Co-Head for signature and generation of the Certificate of Accreditation in case of approved application.
+4. Inform the taxpayer-applicant on the status of accreditation application within two (2) working days from receipt thereof or as may be required upon inquiry of the taxpayer-applicant.
+5. Receive the approved/denied dockets from the LTAB/RAB Head or Co-Head and the following necessary actions must be done within two (2) working days from receipt of the same.
+   - Based on the system-generated Certificate of Accreditation, prepare two (2) copies of the pro-forma Certificate of Accreditation (Annex "I") or Notice/Letter of Denial (Annex "J") to change the signatory of the Certificate of Accreditation from the LTAD/ELTRD/RDO to the LTAB/RAB Head, then forward for signature.
+   - The two (2) copies of the Certificate of Accreditation shall be considered as:
+     - 1st copy – Original or Taxpayer’s Copy; and
+     - 2nd copy – File Copy attached to the docket which will also serve as "Receiving Copy" upon issuance of the said document to taxpayer.
+6. Forward the docket to the TWG Secretariat once the Certificate of Accreditation (Annex "I") or Notice/Letter of Denial (Annex "J") is signed by the LTAB/RAB Head or Co-Head, for their appropriate action.
+7. Receive and record transmitted Monthly Report on the Applications for Accreditation Received (Annex "P-1" and "P-2") from TWG Secretariat and encode in the database.
+8. Prepare and submit Consolidated Monthly Report on the Applications for Accreditation Received (Annex "K-1" and "K-2") to NAB on or before the 15th day of the following month based on the reports submitted by the TWG Secretariats from various LT Offices/RDOs within their jurisdiction.
+9. Prepare Minutes of Meeting (MOM) during the regular meetings to be conducted on a monthly basis relative to the issues and/or concerns with corresponding resolutions on the accreditation applications, including the inventory of aforesaid applications. The regular meetings may be conducted via any online platform depending on the situation as may be cited.
+
+### F. LTAB/RAB Members
+
+1. Receive accreditation docket from the LTAB/RAB Secretariat and sign such Recommendation for Accreditation/Accreditation Report (Annex "O") or Recommendation for Denial (Annex "N"), whichever is applicable.
+2. Review and/or conduct proper evaluation in case there are disputes or issues that cannot be resolved at the TWG level relative to the findings of the TWG. Discussion through meeting with the taxpayer-applicant shall be done, if deemed necessary.
+   - In case the said dispute(s)/issue(s) cannot be resolved at the LTAB/RAB level, the same must be escalated to the NAB for their proper review and/or evaluation.
+3. Facilitate and/or attend regular meetings to be conducted on a monthly basis to discuss the issues and/or concerns with corresponding resolutions on the accreditation applications, including the inventory of aforesaid applications. The regular meetings may be conducted via any online platform depending on the situation as may be cited.
+
+### G. LTAB/RAB Head and Co-Head
+
+1. In case the application is being recommended for denial, receive accreditation docket from the LTAB/RAB Secretariat or Members and sign such Recommendation for Denial (Annex "N") and Notice/Letter of Denial (Annex "J").
+2. In case the application is being recommended for approval, access the Enhanced eAccReg System for the approval of Accreditation through the system which must be done within two (2) working days from receipt of the approved docket. Print the system-generated Certificate that will serve as a basis for the LTAB/RAB Secretariat to prepare the Certificate of Accreditation (Annex "I") in the template to indicate the name of the LTAB/ RAB Head as signatory of the certificate that will be issued to the taxpayer.
+3. Return the signed report and docket to the LTAB/RAB Secretariat for appropriate actions.
+4. Affix signature on the Certificate of Accreditation (Annex "I") prepared by the LTAB/RAB Secretariat within the day of receipt of the document and subsequently return the same to the LTAB/RAB Secretariat.
+   - In case there are disputes/issues on the evaluation case of taxpayer-applicant, sit down together with the Co-Head and other members of LTAB/RAB to discuss and resolve issues or escalate to NAB, if deemed necessary.
+
+## VIII. Penalty Clause
+
+All revenue officials, officers, and employees of the Bureau must strictly observe the "ACCREDITATION IS FREE OF CHARGE" policy and comply with the time within which the Certificate of Accreditation or Notice/Letter of Denial should be issued to the taxpayer-applicant in accordance with the provisions of Republic Act (RA) No. 9485, also known as "Anti-Red Tape Act of 2007", as amended by RA No. 11032 and the latest Citizen’s Charter of the BIR. Any violation of the provisions of this Memorandum shall be subject to the corresponding penalties imposed under RA No. 11032, Section 269 and other related provisions of the NIRC of 1997, as amended, and other applicable revenue issuances.
+
+## IX. Transitory Provision
+
+All pending applications upon approval of this Order must already comply with the policies and requirements stated herein to proceed with the processing of the application. On the other hand, previous accreditation of "Sales Machines/Software" that were granted prior to the effectivity of this Order and were found to be not completely compliant with the requirements under this Order is still valid until its expiration or if such "Sales Machines/Software" have undergone enhancement. Thus, such "Sales Machines/Software" will have to undergo reaccreditation to check its compliance with the requirements of this RMO and other revenue issuances related to the Accreditation of POS.
+
+## X. Repealing Clause
+
+All revenue issuances or any parts thereof inconsistent with the provisions of this Order are hereby repealed or modified accordingly.
+
+## XI. Effectivity
+
+This Order takes effect IMMEDIATELY.
